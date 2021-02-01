@@ -1,0 +1,83 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+
+.fb_1{
+    /* border: solid 1px black; */
+    height: 550px;;
+    width: auto;
+    margin: 5% 8%;
+    display: flex;
+}
+
+.mb-3{
+    /* border: solid 1px black; */
+    height: 34px;
+    width: 56px;
+}
+
+.fb_1_1 img{
+    /* border: solid 1px black; */
+    height: 13%;
+    width: 50%;
+
+    
+
+}
+
+.fb_1_2{
+    /* border: solid 1px rgb(238, 0, 0); */
+    height: auto;
+    width: 550px;  
+    padding-left: 4.4%; 
+}
+
+.fb_box{
+    /* border: blue 1px solid; */
+    width: 600px;
+    height: auto;
+    padding: 5% 2%;
+    margin-top: 1%;
+}
+.frm{
+    border: gainsboro 1px solid;
+    box-shadow: 1px 1px 15px gainsboro ;
+    border-radius: 1rem;
+    width: 480px;
+    height: 430px;
+    padding: 6% 0.8%;
+    text-align: center;
+}
+.email{
+    padding: 1%;
+}
+.pass{
+    padding: 1%;
+}
+
+input{
+
+    border: gainsboro 1px solid;
+    width: 70%;
+    border-radius: 0.4rem;
+    padding: 2.5% 1%;
+
+}
+button{
+    padding: 70% auto  ;
+}
+
+footer{
+    width: 100%;
+    padding: 0% 15%;
+}
+.acc{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+.fb1{
+    margin: 2% 10%;
+}
